@@ -1,0 +1,27 @@
+{
+  "generated_at": "2025-07-29T07:30:42.909Z",
+  "total_images": 3,
+  "images": [
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/BILA-LOGO.png",
+      "file_path": "public/images/logo-line-house.png",
+      "file_name": "logo-line-house.png",
+      "description": "A minimalist line-art logo depicting the outline of a house in green, with subtle lighter green highlights on the door and two windows. Context: Found as the main logo on the website. Represents the company's focus on construction and building-related services. It is visually clean and scalable, suitable for web use.",
+      "size_bytes": 210273
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD2-scaled-1.jpg",
+      "file_path": "public/images/project-tanvald-cottage-renovation.jpg",
+      "file_name": "project-tanvald-cottage-renovation.jpg",
+      "description": "A renovated two-story traditional cottage with a dark facade on the upper half and a light (likely white) plastered lower half. The house is situated in a rural, wooded area with green grass and trees in the background. Context: Found in the 'NAŠE POSLEDNÍ PROJEKTY' (Our Latest Projects) section, specifically for the 'OMLAZENÍ CHALUPY U TANVALDU' (Cottage Renovation near Tanvald) project. Shows a before/after type of project completion, highlighting the company's renovation capabilities. Good lighting and composition, showcasing the refreshed exterior.",
+      "size_bytes": 690823
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/RDPO.jpg",
+      "file_path": "public/images/project-residential-house-renovation.jpg",
+      "file_name": "project-residential-house-renovation.jpg",
+      "description": "A newly renovated residential house with a light-colored (off-white) plastered facade and a dark gray tiled roof. The house features several dark-framed windows and a small dormer window. Two cars are parked on the street in front of the house. Context: Found in the 'NAŠE POSLEDNÍ PROJEKTY' section, likely representing a completed house renovation project. The image is clear, well-lit by natural light, and shows the quality of the exterior work, including facade and roof. It effectively showcases a typical residential renovation.",
+      "size_bytes": 558411
+    }
+  ]
+}
